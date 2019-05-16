@@ -39,8 +39,7 @@
   "awsAccesskey": "accesskey",
   "awsSecretkey": "seccretkey",
   "awsRegion": "region",
-  "isEpochTimeFormat": false,
-  
+  "isEpochTimeFormat": false,  
   "startFrom": "2016-10-10 15:46:33",
   "isDebugAllowed": false,
   "loggingSetting": {
@@ -49,5 +48,5 @@
     "backupCount": 1000
   },
   "osversion": "linux",
-  "agentVersion": "v4.7",
+  "agentVersion": "v4.7"
 }
